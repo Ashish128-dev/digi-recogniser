@@ -1,5 +1,6 @@
-Digit Recognizer using Python:
-    1:CNN.ipynb
+Digit Recognizer using Python
+    
+    1.CNN.ipynb
         Convolutional neural network created using Keras and Tensorflow
         Model exported as mnist.h5
     
